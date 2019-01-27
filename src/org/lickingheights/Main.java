@@ -17,6 +17,7 @@ public class Main {
 
         System.out.println(primaryWord+secondaryWord);
         System.out.println(primaryWord+primaryNumber+secondaryNumber);
+        System.out.println(primaryWord+(primaryNumber+secondaryNumber));
 
     }
 }
